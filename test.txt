@@ -4,11 +4,13 @@ breadcumb
 -- isi breadcumb
 main
 -- isi main
+-- ini aku tambah main benar yaa
+-- ini aku tambah main salah
+-- ini aku tambah main benar gpp
 section
 -- isi section
 --- Ini section benar
 --- Ini jug section benar
-article
--- isi article
 footer
-ini footer yang benar
+-- ini footer yang benar
+-- footer ini benar yaa
