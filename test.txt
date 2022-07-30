@@ -1,9 +1,7 @@
 heaeder
 breadcumb
 main
-ini main yang salah
 section
-ini section yang ssalah
 ini section benar
 article
 footer
