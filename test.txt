@@ -1,8 +1,12 @@
 heaeder
+-- isi header
 breadcumb
+-- isi breadcumb
 main
+-- isi main
 section
-ini section benar
+-- isi section
 article
+-- isi article
 footer
 ini footer yang benar
