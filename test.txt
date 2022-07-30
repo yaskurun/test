@@ -9,3 +9,4 @@ section
 article
 -- isi article
 footer
+ini footer yang benar
